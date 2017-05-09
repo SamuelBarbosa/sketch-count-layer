@@ -1,0 +1,25 @@
+{
+  "author" : "Samuel Barbosa",
+  "commands" : [
+    {   
+        "script" : "Count.js",
+        "name" : "Count Layers",
+        "shortcut" : "command shift @",
+        "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "Count Layers",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.26d19bce-b2e9-4786-9f91-49425cfad74b",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "Count Layers"
+}
