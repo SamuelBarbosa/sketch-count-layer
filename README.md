@@ -5,4 +5,4 @@ A simple plugin to count layers selected. If you select a group it will be count
 [Plugin files](https://github.com/SamuelBarbosa/sketch-count-layer/archive/1.0.0.zip)
 
 ## Shortcuts
-**⌘ + ⇧ + @** to count selected layers.
+**⌘ + ⇧ + f@** to count selected layers.
